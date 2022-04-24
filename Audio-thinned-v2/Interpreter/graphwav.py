@@ -1,6 +1,6 @@
 import sys
 #from lib.pyAudioAnalysisMaster import pyAudioAnalysis
-sys.path.insert(1,'lib/pyAudioAnalysisMaster/pyAudioAnalysis')
+sys.path.insert(1,'Audio-thinned-v2\lib\pyAudioAnalysisMaster\pyAudioAnalysis')
 import ShortTermFeatures as aF
 import audioBasicIO as aIO 
 import plotly.graph_objs as go 
